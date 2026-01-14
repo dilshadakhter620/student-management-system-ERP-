@@ -34,3 +34,6 @@ git clone https://github.com/dilshadakhter620/student-management-system-ERP-.git
 Run the project (if backend exists):
 
 python manage.py runserver
+
+
+runit live = dilshadakhter0.pythonanywhere.com
